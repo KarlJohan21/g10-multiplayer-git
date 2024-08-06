@@ -1,3 +1,4 @@
 Name: Karl Johan Thomsen
 Fav color: Red
 Fav text editor: Vim
+Fav OS: Ubuntu
